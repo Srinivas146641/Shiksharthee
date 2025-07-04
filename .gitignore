@@ -1,0 +1,15 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore environment config
+.env
+
+# macOS system files
+.DS_Store
+
+# Build directories
+build/
+dist/
+
+# VSCode settings
+.vscode/
